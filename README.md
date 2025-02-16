@@ -1,5 +1,4 @@
 
-
 <div align="center">
 <h1>StreamSmart PodCast AI App Project</h1>
 
@@ -12,7 +11,7 @@ With StreamSmart PodCast AI, creating professional-quality podcasts becomes effo
 <h1></h1>
 <h1>StreamSmart PodCast AI Key Features include</h1>
 This project is a fullstack Software-as-a-Service app with AI-powered features like text-to-multiple-voices functionality and AI-generated images with Next.js for the frontend.
- Key features include in this project are:<br/>
+ Key features include in this project are:
 •	AI-Powered Voice Generation: Create natural-sounding podcast episodes using a variety of AI-generated voices or clone your own voice for consistency.<br/>
 •	Automated Scripting: Generate engaging podcast scripts based on your topics and outlines, ensuring rich and informative content.<br/>
 •	Image Generation: create relevant images and visuals to complement your podcast episodes.<br/>
@@ -26,25 +25,18 @@ This project is a fullstack Software-as-a-Service app with AI-powered features l
 <p>
 This section would allow users to easily navigate through different screen, helping them find exactly podcast stream they're looking for in the app based on their needs and interests. 
 </p>
-   <h1>Homepage </h1>
-   <img src="discovers.png" alt="Home Banner" width="50%"/>
-
    <h1></h1>
    <h1>Authentication</h1>
-   <img src="auth.png" alt="Home Banner" width="50%" />
+   <img src="auth.png" alt="Home Banner" width="100%" />
 
   <h1></h1>
   <h1>Create Podcast Page</h1>
-  <img src="createpost.png" alt="Home Banner" width="50%" />
+  <img src="createpost.png" alt="Home Banner" width="100%" />
 
-  <h1></h1>
-    <h1>Generate Podcast</h1>
-     <h1>Generate Thumbnail</h1>
-   <img src="currentplaying.png" alt="Home Banner" width="50%"/>
-   
+ 
   <h1></h1>
    <h1>Postcastcreate Page</h1>
-    <img src="podcastcreated.png" alt="Home Banner" width="50%" />
+    <img src="podcastcreated.png" alt="Home Banner" width="100%" />
  
 
    <h1></h1>
@@ -69,6 +61,19 @@ This section would allow users to easily navigate through different screen, help
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
