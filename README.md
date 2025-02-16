@@ -29,10 +29,6 @@ This section would allow users to easily navigate through different screen, help
    <h1>Authentication</h1>
    <img src="auth.png" alt="Home Banner" width="100%" />
 
-  <h1></h1>
-   <h1>Postcastcreate Page</h1>
-    <img src="podcastcreated.png" alt="Home Banner" width="100%" />
- 
 
    <h1></h1>
    <h1>Displaying Podcasts</h1>
@@ -41,7 +37,10 @@ This section would allow users to easily navigate through different screen, help
    <h1></h1>
    <h1>Podcast Details Page</h1>
     <img src="podcastercreator.png" alt="Home Banner" width="100%" />
-
+  <h1></h1>
+   <h1> Create Postcast Page</h1>
+    <img src="podcastcreated.png" alt="Home Banner" width="100%" />
+ 
   
   <h1></h1>
   <h1>Track of successful Podcast create on command line</h1>
