@@ -12,12 +12,12 @@ With StreamSmart PodCast AI, creating professional-quality podcasts becomes effo
 <h1>StreamSmart PodCast AI Key Features include</h1>
 This project is a fullstack Software-as-a-Service app with AI-powered features like text-to-multiple-voices functionality and AI-generated images with Next.js for the frontend.
  Key features include in this project are:
-•	AI-Powered Voice Generation: Create natural-sounding podcast episodes using a variety of AI-generated voices or clone your own voice for consistency.
-•	Automated Scripting: Generate engaging podcast scripts based on your topics and outlines, ensuring rich and informative content.
-•	Image Generation: create relevant images and visuals to complement your podcast episodes.
-•	Content Structuring: Automatically split long-form content into multiple episodes while maintaining context and flow.
-•	Editing Tools: Access automated editing features to enhance your podcast's audio quality and flow.
-•	Collaboration: Invite colleagues or clients to collaborate on podcast projects, providing real-time feedback and approvals within the platform.
+•	AI-Powered Voice Generation: Create natural-sounding podcast episodes using a variety of AI-generated voices or clone your own voice for consistency.<br/>
+•	Automated Scripting: Generate engaging podcast scripts based on your topics and outlines, ensuring rich and informative content.<br/>
+•	Image Generation: create relevant images and visuals to complement your podcast episodes.<br/>
+•	Content Structuring: Automatically split long-form content into multiple episodes while maintaining context and flow.<br/>
+•	Editing Tools: Access automated editing features to enhance your podcast's audio quality and flow.<br/>
+•	Collaboration: Invite colleagues or clients to collaborate on podcast projects, providing real-time feedback and approvals within the platform.<br/>
 
 
 <h1></h1>
@@ -68,6 +68,24 @@ This section would allow users to easily navigate through different screen, help
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
