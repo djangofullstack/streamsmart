@@ -6,7 +6,7 @@
 StreamSmart PodCast AI is an innovative SaaS platform designed to streamline podcast creation with the help of artificial intelligence 🎬
 With StreamSmart PodCast AI, creating professional-quality podcasts becomes effortless, allowing you to focus on delivering great content to your audience.
 </p>
-<img src="home.png" alt="Home Banner" width="50%"/>
+<img src="home.png" alt="Home Banner" width="100%"/>
 
 <h1></h1>
 <h1>StreamSmart PodCast AI Key Features include</h1>
@@ -41,16 +41,16 @@ This section would allow users to easily navigate through different screen, help
 
    <h1></h1>
    <h1>Displaying Podcasts</h1>
-   <img src="generateimagesuccess.png" alt="Home Banner" width="50%" />
+   <img src="generateimagesuccess.png" alt="Home Banner" width="100%" />
 
    <h1></h1>
    <h1>Podcast Details Page</h1>
-    <img src="podcastercreator.png" alt="Home Banner" width="50%" />
+    <img src="podcastercreator.png" alt="Home Banner" width="100%" />
 
   
   <h1></h1>
   <h1>Podcast Player</h1>
-    <img src="cmdsuccess.png" alt="Home Banner" width="50%" />
+    <img src="cmdsuccess.png" alt="Home Banner" width="100%" />
 
   
 </div>
